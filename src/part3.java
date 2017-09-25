@@ -4,7 +4,7 @@ public class part3 {
 
 	public class fbArray {
 
-	    public static String[] fizzbuzz(int n) {
+	    public static String[] fb(int n) {
 
 	        if (n >= 1) {
 	            String[] array = new String[n];
