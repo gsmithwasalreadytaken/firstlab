@@ -2,8 +2,6 @@ import java.util.Arrays;
 
 public class part3 {
 
-	public class fbArray {
-
 	    public static String[] fbArray(int n) {
 	        if (n >= 1) {
 	            String[] array = new String[n];
@@ -31,5 +29,4 @@ public class part3 {
 
 
 	    }
-	}
 }
