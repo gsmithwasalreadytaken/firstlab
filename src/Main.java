@@ -23,6 +23,7 @@ public class Main {
 			
 		} else 
 			System.out.println("invalid number");
+		
 			System.exit(0);
 		
 	}

@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class part4 {
 
-    public static List<String> fb(int n) {
+    public static List<String> fbList(int n) {
 
         if (n >= 1) {
         	
